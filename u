@@ -1,0 +1,8 @@
+#!/bin/bash
+arg=$1
+if [[ $arg = zip ]]; then
+	type="*.zip"
+else
+	type="*"
+fi
+echo $type

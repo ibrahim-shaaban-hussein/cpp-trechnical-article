@@ -1,0 +1,502 @@
+more rfind1.py 
+ rfind2.py
+python3 rfind2.py
+more rfind2.py 
+python3 rfind1.py
+more rfind1.py 
+python3 rfind1.py
+python3 rfind1.py
+python3 rfind2.py
+python3 rfind1.py
+cat rfind1.py
+python3 rfind1.py
+python3 rfind2.py
+cat rfind2.py
+vi rfind3.py
+more  rfind3.py
+cleqr
+clear
+more  rfind3.py
+python3 rfind3.py
+python3 maxsplit.py
+vi  maxsplit.py
+chmod 755  maxsplit.py
+./maxsplit.py 
+more ./maxsplit.py 
+vi ./maxsplit.py 
+./maxsplit.py 
+vi ./maxsplit.py 
+vi split_right.py
+vi split_right.py
+chmod +x  split_right.py
+./split_right.py 
+vi split_right.py
+./split_right.py 
+vi split_right.py
+./split_right.py 
+vi split_lines.py
+chmod 755  split_lines.py
+./split_lines.py 
+vi words.txt
+vi split_lines2.py
+chmod 755 split_lines2.py
+./split_lines2.py 
+vi reg_split.py
+chmod 755 reg_split.py
+./reg_split.py 
+vi reg_split.py 
+./reg_split.py 
+vi reg_split.py 
+./reg_split.py 
+vi reg_split.py 
+./reg_split.py 
+./reg_split.py 
+vi word_freq.py
+chmod +x word_freq.py
+./word_freq.py
+ipython3 ./word_freq.py
+python3 ./word_freq.py
+./word_freq.py
+vi word_freq.py
+wget https://raw.githubusercontent.com/janbodnar/data/main/the-king-james-bible.txt
+vi the-king-james-bible.txt
+pwd
+vi largeRange.py
+vi largestRange.py
+python3 largestRange.py
+vi largeRange.py
+vi  largestRange.py
+python3 largestRange.py
+vi  largestRange.py
+python3 largestRange.py
+vi  largestRange.py
+vi check.py
+python3 check.py
+vi check.py
+python3 check.py
+vi check.py
+python3 check.py
+vi check.py
+python3 check.py
+vi check.py
+python3 check.py
+vi check.py
+python3 check.py
+vi check.py
+python3 check.py
+vi check.py
+python3 check.py
+vi check.py
+python3 check.py
+vi check.py
+python3 check.py
+python3 check.py
+vi check.py
+netstat
+netstat | grep 443
+netstat -nt | grep 443
+netstat -nt | grep 443 | man xargs
+ps -eo
+ps -eo user, pid
+find /etc -type f  -maxdeepth 1
+find /etc -type f  -maxdepth 1
+find /etc -type f  
+find /etc -type f  
+find /etc -type f 
+pwd
+find /etc -type f 
+ls -ltr /etc
+ls -ltr /private/etc/
+find  /private/etc/ -type f -maxdepth 1
+set -x
+x=10
+echo $x$x
+ifconfig 
+ifconfig | sed -ne "s/.*inet6 add: *\([0-9.]\+\).*/\1/p"
+ifconfig | sed -ne "s/.*inet6 add: *\([0-9.]\+\).*/\1/p"
+ps-eo
+ps
+sudo ps -eo
+bash
+set -x
+vi 77
+python3  77
+vi 77
+python3  77
+vi 77
+python3  77
+vi 77
+python3  77
+vi 77
+python3 77
+vi 33
+vi 333
+python3 33
+python3 333
+vi 444
+vi 4444
+python3 4444
+vi 4444
+vi 4444
+vi 4444
+python3 4444
+vi 4444
+python3 4444
+vi 777
+python3  777
+vi 777
+python3  777
+vi 99
+vi 999
+vi 9999
+python3 9999
+vi 9999
+python3 9999
+vi 9999
+python3 9999
+vi 65
+python3 65
+vi 65
+python3 65
+vi 7777
+python3 7777
+vi 7777
+python3 7777
+vi 7777
+python3 7777
+vi 7777
+python3 7777
+vi 7777
+python3 7777
+vi 7777
+python3 7777
+vi 7777
+python3 7777
+ls -ltr
+python3 exception1.py 
+python3 licollection.py 
+python3 licollection.py 
+python3 licollection.py 
+python3 licollection.py 
+vi cal1.py
+python3 cal1.py
+python3 cal1.py
+vi cal1.py
+python3 cal1.py
+vi cal1.py
+python3 cal1.py
+vi cal1.py
+python3  cal1.py
+vi cal1.py
+python3  cal1.py
+vi cal1.py
+python3  cal1.py
+vi cal1.py
+python3  cal1.py
+vi cal1.py
+python3  cal1.py
+vi Calculator.py
+python3 Calculator.py 
+sudo pip install PyMuPDF
+mkdir test1; cd test1; touch -- -rf x y ; mkdir z ; rm *
+mkdir test1; cd test1;
+ cd test1;
+ls -ltr
+touch -- -rf x y 
+mkdir z 
+pwd
+ls -ltr
+cd test1
+mkdir test1; cd test1;
+mkdir test111; cd test111;
+pwd
+ls -ltr
+touch -- -rf x y ; mkdir z
+rm *
+pwd
+ls -ltr
+touch -- -rf x y 
+ls -ltr
+vi km.py
+python3 km.py 
+vi km.py
+python3 km.py 
+awk '{$1 == "foo"; print}'
+cd
+ls -ltr
+ls -ltr *.txt
+awk '{$1 == "foo"; print}' student.txt 
+awk '{$1 == "foo"; print}' student.txt 
+vi student.txt 
+grep -W "foo" *.txt
+grep -w "foo" *.txt
+grep -w "Dayan" *.txt
+bg ls
+bg ls -ltr *.txt
+cat /etc/users
+id Ibrahims-MacBook-Pro
+ls /home
+~Ibrahims-MacBook-Pro
+~
+pwd
+~username
+tree
+tail -f student.txt 
+man tee
+man cat
+man iostat
+man netstat
+man strace
+man perf
+pid
+ps aux | grep 
+ps aux 
+man sysctl
+vi ok.py
+vi ok.py
+python3 ok.py
+vi ok.py
+python3 ok.py
+vi sd.py
+python3 sd.py
+vi sd.py
+python3 sd.py
+vi sd.py
+python3 sd.py
+vi sd.py
+vi ren.py
+python3  ren.py
+vi ren.py
+vi uu.py
+python3 uu.py
+vi kk.py
+python3 kk.py
+vi kk.py
+python3 kk.py
+vi kk.py
+python3 kk.py
+pd
+pwd
+vi a.java
+java -o a.java
+more  a.java
+javac a.java
+vi Gfg.java
+javac Gfg.java 
+ls -ltr
+java Gfg.class 
+./Gf
+ls -ltr
+java Gfg
+more Gfg.java 
+cp Gfg.java Gfg1.java
+vi Gfg1.java 
+javac Gfg1.java 
+java Gfg1
+javac Gfg1.java 
+vi Gfg1.java 
+javac Gfg1.java 
+vi Gfg1.java 
+javac Gfg1.java 
+vi Gfg1.java 
+javac Gfg1.java 
+vi Gfg1.java 
+javac Gfg1.java 
+vi Gfg1.java 
+javac Gfg1.java 
+java Gfg1
+vi Main.java
+javac Main.java
+java Main.
+java Main
+vi ExceptionThrown.java
+javac ExceptionThrown.java
+java ExceptionThrown
+vi interface.java
+javac interfac
+vi TimeClient.java
+javac TimeClient.java
+vi defaultmethods.java
+javac defaultmethods.java
+vi defaultmethods.java
+vi SimpleTimeClient.java
+javac SimpleTimeClient
+javac SimpleTimeClient.java
+javac SimpleTimeClient.java
+vi SimpleTimeClient.java
+javac SimpleTimeClient.java
+vi SimpleTimeClient.java
+vi TimeClient.java
+vi TestSimpleTimeClient.java
+vi TestSimpleTimeClient.java
+vi k.java
+netstat -na
+netstat a
+netstat -a
+netstat -a >> ip.txt
+vi ip.txt 
+vi ip.txt
+netstat -a > ip.txt
+ls -ltr
+netstat -a &> ip.txt
+ls -ltr
+netstat -a >> ip.txt &
+ls -ltr
+ls -ltr
+bg
+fg
+ls -ltr
+vi ip.txt 
+grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" logfile | sort | uniq -c | sort -nr 
+grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" ip.txt | sort | uniq -c | sort -nr 
+grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" ip.txt | sort | uniq -c | sort -nr 
+clear
+grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" ip.txt | sort | uniq -c | sort -nr 
+grep -E '(^|[^o])o{2,3}($|[^o])' ip.txt 
+grep -E 'o{2,3}' ip.txt 
+grep -E 'o{1,3}' ip.txt 
+grep -E 'co{1,3}' ip.txt 
+grep -E 'o{1,3}' ip.txt 
+grep -E 'o{1,3}' ip.txt 
+grep -E 'com{1,3}' ip.txt 
+grep -E 'statistics{1,3}' ip.txt 
+grep -E 'statistics{1,3}' ip.txt 
+grep -E 'statistics{2,3}' ip.txt 
+grep -E 'statistics{1,3}' ip.txt 
+grep -E 'kctl{1,3}' ip.txt 
+grep -E 'kctl{1,2}' ip.txt 
+grep -E 'kctl{1,1}' ip.txt 
+clear
+grep -E 'kctl{1,1}' ip.txt 
+grep -E '(^|[^o])o{2,3}($|[^o])' ip.txt 
+grep -R "192.168.1.5" /etc/
+sudo grep -R "192.168.1.5" /etc/
+sudo grep -R "192.168.1.5" /etc/
+sudo grep -R "root" /etc/
+sudo grep -R "192.168.1" ~/
+sudo grep -R "192.168" ~/
+sudo grep -R "192.168" ~
+sudo grep -R "192.168" .
+ls -ltr ip.txt 
+more ip.txt 
+pwd
+sudo grep -R "192.168" /Users/ibrahims.hussein
+sudo grep -R "192.168" /Users/ibrahims.hussein/
+grep -c 'CLOSED' ip.txt 
+grep -c 'LISTEN' ip.txt 
+grep -c 'ESTABLISHED' ip.txt 
+grep -n 'ESTABLISHED' ip.txt 
+grep -v 'ESTABLISHED' ip.txt 
+grep -v 'kctl' ip.txt 
+grep -v '^kctl' ip.txt 
+grep -v '^kevt' ip.txt 
+more ip.txt 
+grep -v '^tcp' ip.txt 
+grep -v '^520f780' ip.txt 
+grep -B 'tcp' ip.txt 
+grep -B NUM 'tcp' ip.txt 
+grep -B10 'tcp' ip.txt 
+vi  ip.txt 
+grep -B10 -A2 'tcp' ip.txt 
+more ip.txt 
+grep -B 10 -A 2 'tcp' ip.txt 
+more ip.txt 
+grep -B10 -A2 'tcp' ip.txt 
+more ip.txt 
+grep -A10 'tcp' ip.txt 
+vi ip.txt 
+vi ip.txt 
+grep -A10 'localhost.http-alt' ip.txt 
+vi ip.txt 
+grep -A10 'localhost.http-alt' ip.txt 
+vi ip.txt 
+tcp6       0      0  localhost.http-alt     localhost.51673        ESTABLISHED
+grep -A 10 'localhost.http-alt' ip.txt 
+vi ip.txt 
+dmesg | egrep '(s|h)d[a-z]'
+sudo dmesg | egrep '(s|h)d[a-z]'
+sudo dmesg | egrep '(s|h)d[a-z]'
+cat /proc/cpuinfo | grep -i 'Model'
+sudo apt-get update
+pip  update
+pip git clone https://github.com/GoogleCloudPlatform/kubernetes.git
+git clone https://github.com/GoogleCloudPlatform/kubernetes.git
+cd kubernetes
+ls -ltr
+make release
+cd ..
+git clone https://github.com/GoogleCloudPlatform/kubernetes.git
+git clone https://github.com/GoogleCloudPlatform/kubernetes.git
+cd -
+pwd
+ls -ltr
+cd client/
+ls -ltr
+cd bin/
+ls -ltr
+ls -ltr
+cd ../..
+pwd
+cd ..
+rm -rf kubernetes
+git clone https://github.com/GoogleCloudPlatform/kubernetes.git
+ssh-add ~/.ssh/id_rsa
+cd
+ssh-add ~/.ssh/id_rsa
+ansible localhost -m ping -e 'ansible_python_interpreter="/usr/bin/env python"'
+cd -
+pwd
+vi inventory 
+ssh-add ~/.ssh/id_rsa
+git clone https://github.com/GoogleCloudPlatform/kubernetes.git
+/etc/ansible/ansible.cfg
+vi /etc/ansible/ansible.cfg
+vi /etc/ansible/.ansible.cfg
+export ANSIBLE_HOST_KEY_CHECKING=False
+ansible localhost -m ping -e 'ansible_python_interpreter="/usr/bin/env python"'
+vi /etc/ansible/.ansible.cfg
+sudo vi /etc/ansible/.ansible.cfg
+sudo vi /etc/ansible/.ansible.cfg
+ansible localhost -m ping -e 'ansible_python_interpreter="/usr/bin/env python"'
+ansible-playbook -i hosts site.yml --user root --ask-pass -vvvv
+ansible-playbook -i hosts local --user root --ask-pass -vvvv
+ansible-playbook -i hosts localhost --user root --ask-pass -vvvv
+sudo vi /etc/ansible/.ansible.cfg
+ansible-playbook -i hosts local --user root --ask-pass -vvvv
+ansible localhost -m ping -e 'ansible_python_interpreter="/usr/bin/env python"'
+ansible localhost -m ping -e 
+cd ~/.ssh/
+ls -ltr
+pwd
+pwd
+cd ansible_tutorial/
+pwd
+ls | paste - - -
+pwd
+cd 
+pwd
+ls | paste - - -
+more test1
+clear
+ls | paste - - -
+more testloop.cpp
+more testloop.cpp
+ls testloop.cpp | paste - - - 
+ls | paste - - - - 
+paste -s -d '\t\n' tuple3.py
+more tuple3.py
+more test1.py
+more test1
+ls -ltr
+more findN.py 
+paste -s -d '\t\n' findN.py 
+paste -s -d '\t\n' findN.py
+sed = findN.py | paste -s -d '\t\n' - -
+sed = findN.py | paste -s -d '\t\n' - - -
+sed = findN.py | paste -s -d '\t\n' - -
+find / -name bin -type d | paste -s -d : -
+find / -name bin -type d 
+find / -name bin -type d | paste -s -d : -
+vi 1.txt
+ssh ubuntu@34.227.69.88
+0;38;9M0;38;9m

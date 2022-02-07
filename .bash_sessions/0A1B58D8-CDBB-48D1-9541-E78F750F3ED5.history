@@ -1,0 +1,642 @@
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+python3 arr1.py 
+pwd
+ls -ltr
+python3 arr1.py 
+vi arr1.py 
+python3 arr1.py 
+vi arr1.py 
+python3 arr1.py 
+vi arr1.py 
+python3 arr1.py 
+vi arr1.py 
+grep  input *
+vi arr1.py 
+python3 arr1.py 
+python3 arr1.py 
+vi arr1.py 
+python3 arr1.py 
+vi arr1.py 
+vi aar2d.py
+python3 aar2d.py
+vi aar2d.py
+python3 aar2d.py
+python3 aar2d.py
+python3 aar2d.py
+python3 aar2d.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+vi arr2d2.py
+python3  arr2d2.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+vi arr2dN.py
+python3 arr2dN.py
+python3 arr2dN.py
+vi arr2d3.py
+python3 arr2d3.py
+vi arr2d3.py
+python3 arr2d3.py
+python3 arr2d3.py
+python3 arr2d3.py
+mv arr2d3.py arr2diminsion.py
+vi arr2diminsion.py 
+cut -d ' ' -f1-3 
+vi txt8.txt
+cut -d ' ' -f1-3 txt8.txt 
+cut -d ' ' -f2- txt8.txt 
+first20l.sh
+vi first20l.sh
+vi tr1.sh
+vi num1.txt
+sort -n -r num1.txt
+vi temp1.txt
+sort -n -k2 -r -t $'\t' temp1.txt
+sort -n -k2 -r -t $'\t' temp1.txt
+vi uniq1.txt
+uniq -c  uniq1.txt
+uniq   uniq1.txt
+pwd
+cd 
+pwd
+cd hackerrank/
+ls -ltr findN*
+find . -name Find*
+find . -name "find*"
+ls -ltr find*
+ls -ltr *.py
+ls -ltr | more
+cd tmp
+ls -ltr
+cd ..
+pwd
+dc 
+cd 
+cd Documents/
+ls -ltr
+cd hackerrank/
+ls -ltr
+ls -ltr *.py
+find . -name "*.py"
+find . -name "*.py" -print
+cd java/
+ls -ltr
+cd
+pwd
+cd
+cd hackerrank/
+find . -name "*.py"
+find . -name "*.py" | grep -i find
+find . -name "*.py" | grep -i number
+vi findNum.py
+python findNum.py
+python3 findNum.py
+vi  findNum.py
+grep split *
+grep findNymber  *
+grep -i findNymber  *
+grep -i findNumber  *
+grep -i findNumber  */*
+grep -i findN  */*
+grep -i find  */*
+pw
+pwd
+grep -i Find  */*
+vi findNumber.cpp
+git --version
+clear
+cd
+pwd
+mkdir dev-bash
+cd dev-bash/
+x=4
+echo $x
+echo "$x"
+echo "${x}"
+echo "${}"
+echo "${y}"
+echo $PS1
+PS1="\W => $ "
+PS1="\PWD => $ "
+PS1="PWD => $ "
+PS1="$PWD => $ "
+PS1=[\@ ==> \u@\h \w]
+PS1=[\ ==> \u\h \w]
+PS1=[\ ==> \u\h \w]
+PS1=[\ ==> \u\h]
+PS1=[\T ==> \u\h \w]
+PS1=[\t ==> \u\h \w]
+PS1=[\Te ==> \u\h]
+PS1=[\T@ ==> \u\h]
+PS1=[\Te ==> \u\h]
+PS1=[\T ==> \u\h]
+PS1="[\T ==> \u\h]"
+PS1="[\T@ ==> \u\h]"
+PS1="[\T@ ==> \u\h\e]"
+echpo $PS1
+echo $PS1
+brew install git
+sh get_git_versions.sh
+get_git_versions.sh
+which bash
+vi get_git_versions.sh
+chmod +x get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+man if
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+./get_git_versions.sh 
+vi get_git_versions.sh
+vi get_git_versions.sh
+clear
+sh get_git_versions.sh
+grep --color=auto error *.txt
+export GRE
+_OP
+export GRE_OPTIONS= --color=auto
+export GREP_OPTIONS= --color=auto
+export GREP_OPTIONS='--color=auto'
+grep error *.txt
+grep -i error *.txt | awk {'print $12'}
+ifconfig 
+ifconfig  -a
+clear
+ifconfig  -a | more
+ping 192.168.100.16
+ping -c 1 192.168.100.16| grep 'bytes from' 
+ping -c 1 192.168.100.16| grep 'bytes from' | cut -d = -f 4
+echo $machine_type
+echo $MACHINE_TYPE
+ECHO $0
+echo $0
+./get_git_versions.sh 
+echo $0
+ping -c 1 192.168.100.16| grep 'bytes from' 
+vi 3.sh
+chmod +x  3.sh
+./3.sh 
+echo $0
+vi 3.sh
+echo $0
+./3.sh 
+export  PS1=“< $LOGNAME@`hostname`:\$PWD > “
+export  PS1=“< $LOGNAME@`hostname`:\$PWD > “
+export  PS1="< $LOGNAME@'hostname':\$PWD > "
+export  PS1="< $LOGNAME@'hostname':\$PWD > "
+echo $hostname
+echo $HOSTNAME
+export  PS1="< $LOGNAME@'HOSTNAME':\$PWD > "
+export  PS1="< $LOGNAME@'$hostname':\$PWD > "
+export  PS1="< $LOGNAME@'$hostname':\$PWD > "
+echo $hostname
+export  PS1="< $LOGNAME@'$hostname':\$PWD > "
+echo $HOSTNAME
+export  PS1="< $LOGNAME@'$HOSTNAME':\$PWD > "
+export  PS1="\$PWD:  > "
+export  PS1="\$PWD: > "
+export  PS1="\$PWD$ > "
+export  PS1="\$ > "
+clear
+export  PS1="< $LOGNAME@'$HOSTNAME':\$PWD\n > "
+export  PS1="< $LOGNAME@'$HOSTNAME':\$PWD\n> "
+clear
+export  PS1="< $LOGNAME@'$HOSTNAME':\$PWD\n$ "
+clear
+export  PS1="< $LOGNAME@'$HOSTNAME':\$PWD\n$ "
+export  PS1="< $LOGNAME@'\$PWD\n$ "
+export  PS1="\$PWD\n$ "
+clear
+export  PS1="\$PWD\n$ "
+vi .bash_profile
+vi StackDemo.java
+vi StackDemo.java
+javac StackDemo.java 
+java StackDemo
+mv  StackDemo.java StackDemoPop.jav 
+mv  StackDemo.java StackDemoPop.java
+mv StackDemoPop.jav StackDemoPop.java 
+vi StackDemoPop.java 
+javac  StackDemoPop.java 
+java StackDemoPop
+vi StackDemoPush.java
+javac StackDemoPush.java
+java StackDemoPush
+java StackDemoPop
+java StackDemoPop
+javac StackDemoPush
+vi  StackDemoPush
+vi  StackDemoPush.java 
+cp  StackDemoPush.java  StackDemoPop1.java
+vi  StackDemoPop1.java
+javac StackDemoPop1.java
+java StackDemoPop1
+ls -ltr
+vi StackDemoPush.java
+mv StackDemoPush.java StackDemoPop.java
+javac StackDemoPop.java
+vi StackDemoPop.java
+javac StackDemoPop.java
+java StackDemoPop
+vi StackDemoPop.java
+javac StackDemoPop.java
+vi StackDemoPop.java
+javac StackDemoPop.java
+java StackDemoPop
+java StackDemovi // Java code to demonstrate search() method
+import java.util.*;
+public class Stack_Demo {
+public static void main(String[] args)
+{ g an empty Stack; g> STACK = new Stack<String>(); g strings; g the Stack; tln("The stack is: " + STACK);
+g for the element "4"
+tln("Does the stack contains '4'? "
+g for the element "Hello"
+tln("Does the stack contains 'Hello'? "
+g for the element "Geeks"
+tln("Does the stack contains 'Geeks'? "
+// Java code to demonstrate search() method
+import java.util.*;
+public class Stack_Demo {
+public static void main(String[] args)
+{ g an empty Stack; g> STACK = new Stack<String>(); g strings; g the Stack; tln("The stack is: " + STACK);
+g for the element "4"
+tln("Does the stack contains '4'? "
+g for the element "Hello"
+tln("Does the stack contains 'Hello'? "
+g for the element "Geeks"
+tln("Does the stack contains 'Geeks'? "
+vi 1
+mv 1 Stack_Demo.java
+vi Stack_Demo.java 
+javac  Stack_Demo.java 
+java Stack_Demo
+vi StackDemoRemove.java
+javac StackDemoRemove.java
+vi StackDemoRemove.java
+javac StackDemoRemove.java
+java StackDemoRemove
+clear
+java StackDemoRemove
+vi Solution.py
+python3  Solution.py
+python3  Solution.py
+vi Solution.cpp
+gcc  Solution.cpp -o Sol
+g++  Solution.cpp -o Sol
+chmod 755 Sol
+./Sol 
+vi Solution.cpp
+g++  Solution.cpp -o Sol
+vi Solution.cpp
+g++  Solution.cpp -o Sol
+vi Solution.cpp
+g++  Solution.cpp -o Sol
+./Sol
+vi Solution.cpp
+./Sol
+vi Solution.cpp
+gcc Solution.cpp -o Sol
+g++ Solution.cpp -o Sol
+.\Sol
+./Sol 
+vi Solution.cpp
+ls -ltr
+vi palindrome.cpp
+vi Solution.cpp
+vi palindrome.cpp
+g++ Solution.cpp -o Sol
+./Sol
+./Sol
+vi palindrome.cpp
+g++ Solution.cpp -o Sol
+./Sol
+clear
+./Sol
+vi palindrome.cpp
+g++ Solution.cpp -o Sol
+vi palindrome.cpp
+./Sol
+./Sol
+vi palindrome.cpp
+g++ Solution.cpp -o Sol
+./Sol
+vi palindrome.cpp
+g++ Solution.cpp -o Sol
+./Sol
+vi palindrome.cpp
+g++ Solution.cpp -o Sol
+./Sol
+cleqar
+clear
+./Sol
+more Solution.cpp
+vi Solution.cpp
+g++ Solution.cpp -o Sol
+./sol
+./Sol
+vi Solution.cpp
+g++ Solution.cpp -o Sol
+./Sol 
+clear
+./Sol 
+vi Solution.cpp 
+g++ Solution.cpp -o Sol
+vi Solution.cpp 
+g++ Solution.cpp -o Sol
+vi Solution.cpp 
+g++ Solution.cpp -o Sol
+vi Solution.cpp 
+g++ Solution.cpp -o Sol
+vi Solution.cpp 
+g++ Solution.cpp -o Sol
+vi Solution.cpp 
+g++ Solution.cpp -o Sol
+clear
+vi Solution.cpp 
+g++ Solution.cpp -o Sol
+vi Solution.cpp 
+vi VarAttr.sh
+vi VarAttr.sh
+chmod +x VarAttr.sh
+./VarAttr.sh 
+vi VarAttr.sh
+clear
+./VarAttr.sh 
+vi VarAttr.sh
+man declare
+man declare
+man var
+man bash
+vi VarAttr.sh
+ehich bash
+which bash
+vi VarAttr.sh
+vi VarAttr.sh
+bash --version
+vi VarAttr.sh
+./VarAttr.sh
+./VarAttr.sh 2>>&1
+./VarAttr.sh 2>>&
+./VarAttr.sh 2>>1
+clear
+./VarAttr.sh 2>>1
+ls -ltr
+more 1
+./VarAttr.sh 2>&1
+ls -ltr
+more 1
+echo $
+echo $SECONDS
+bc 58244 / 60
+bc ((58244 / 60))
+echo $(bc((58244 / 60)))
+bc
+f=$((1/3))
+f=$((1/3)); echo $f
+f=$((1/3)); echo $f; g=$(echo 1/3 | bc -l); eho g
+f=$((1/3)); echo $f; g=$(echo 1/3 | bc -l); eho $g
+f=$((1/3)); echo $f; g=$(echo 1/3 | bc -l); echo $g
+[[ "cat" == "cat" ]]; echo $?; [[ "cat" = "dog" ]]; echo $?
+vi 5.sh
+chmod 755 5.sh
+c./5.sh
+./5.sh
+vi 5.sh
+./5.sh
+vi 5.sh
+clear
+./5.sh
+vi 5.sh
+./5.sh
+vi 6.sh
+vi 6.sh
+clear
+chmod +x 6.sh
+./6.
+./6.sh 
+a="Hello"
+b="World"
+c=$a$b
+echo $c
+echo ${#a}
+echo ${#c}
+d=${c:3}
+echo $d
+${c:3:4}
+e=${c:3:4}
+echo $e
+ echo ${c: -4}
+echo $c
+clear
+echo $c
+vi ~/.bash_profile
+vi Type1.java
+javac Type1.java
+vi Type1.java
+vi Type1.java
+javac Type1.java
+vi Type1.java
+vi Type1.java
+mv Type1.java main.java
+javac main.java
+vi Type1.java
+vi main.java
+javac main.java
+:q
+mv main.java 
+ls -ltr
+mv Main.java Main.cpp
+g++ Main.cpp -o Main
+vi  Main.cpp
+g++ Main.cpp -o Main
+vi  Main.cpp
+g++ Main.cpp -o Main
+vi  Main.cpp
+vi CFG1.java
+javac CFG1.java
+java CFG1
+java ./CFG1
+vi CFG1.java
+vi CFG2.java
+javac CFG2.java
+java CFG2
+vi CFG2.java
+javac CFG2.java
+java CF
+vi CFG2.java
+javac CFG2.java
+vi CFG2.java
+javac CFG2.java
+vi CFG2.java
+javac CFG2.java
+vi CFG2.java
+javac CFG2.java
+mv  CFG2.java Main.java
+javac Main.java
+java Main
+vi Main.java
+vi Main.java
+java Main
+more  Main.
+more  Main.java 
+java Main
+vi Minimum.java
+javac Minimum.java
+java Minimum
+vi CFG.java
+javac CFG.java 
+
+vi CFG.java
+javac CFG.java 
+vi CFG.java
+javac CFG.java 
+javac CFG.java 
+java CFG
+vi CFG.java
+javac CFG.java 
+java CFG
+vi CFG.java
+javac CFG.java 
+java CFG
+vi CFG.java
+java CFG
+ls -ltr
+vi Minimum.java
+vi CFG.java
+vi CFG.java
+javac CFG.java 
+java CFG
+javac CFG.java
+vi CFG.java
+ls -ltr
+java Main
+java Minimum
+vi Minimum.java
+vi CFG.java
+vi CFG.java
+javac CFG.java
+java CFG
+vi Minimum.java
+javac CFG.java
+vi CFG.java\
+vi CFG.java
+javac CFG.java
+java CFG
+vi CFG.java
+ls -ltr
+more Minimum.java 
+vi  Minimum.java 
+vi CFG.java
+vi CFG.java
+javac CFG.java
+java CFG
+vi CFG.java
+more Minimum.java 
+vi CFG.java
+more Minimum.java 
+more  CFG.java
+vi CFG.java
+mv  CFG.java Minimum2.java
+javac Minimum2.java
+java Minimum2
+vi Minimum2.
+vi Minimum2.java 
+vi Minimum.java 
+diff Minimum.java Minimum2.java 
+vi Minimum.java 
+vi Minimum2.java 
+javac Minimum2.java
+vi Minimum2.java 
+javac Minimum2.java
+java Minimum2
+more Minimum2.java 
+java Minimum2
+vi Minimum2.java 
+more Minimum2.java 
+javac Minimum2.java
+vi Minimum2.java 
+javac Minimum2.java
+vi Minimum2.java 
+javac Minimum2.java
+vi Minimum2.java 
+javac Minimum2.java
+vi Minimum2.java 
+javac Minimum2.java
+vi Minimum2.java 
+javac Minimum2.java
+java Minimum2
+vi Minimum2.java 
+java Minimum2
+clear
+java Minimum2
+more Minimum.java 
+clear
+more  Minimum2.java 

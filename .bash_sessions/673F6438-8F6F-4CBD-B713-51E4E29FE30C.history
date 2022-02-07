@@ -1,0 +1,509 @@
+vi 208-The_Power-Sum-Recursion.py
+vi 208-The_Power-Sum-Recursion.py
+pwd
+ls -ltr
+python3 208-The_Power-Sum-Recursion.py 
+python3 208-The_Power-Sum-Recursion.py 
+ls -ltr
+vi powersum.cpp
+gcc powersum.cpp
+g++ powersum.cpp
+g++ powersum.cpp
+clear
+g++ powersum.cpp
+g++ -o powersum.cpp
+g++ -o 123 powersum.cpp
+g++ -c  powersum.cpp
+ls -ltr
+./powersum 
+./powersum
+chmod 755 powersum.o
+./powersum
+./powersum.o
+chmod 755 powersum.o
+ls -ltr
+g++  powersum.o
+g++ -o  powersum.cpp
+g++ -o 123  powersum.cpp
+g++ -o -v 123  powersum.cpp
+g++ -v powersum.cpp
+g++ -v powersum.cpp
+vi  powersum.cpp
+vi powersum.cpp
+g++ powersum.cpp -o powersum
+gcc powersum.cpp -o powersum
+gcc -m64 powersum.cpp -o powersum
+sudo brew install pkg-config brew install zlib
+brew install pkg-config brew install zlib
+gcc -m64 powersum.cpp -o powersum
+paste 
+man paste
+clear
+clear
+vi list1.py
+python3  list1.py
+vi list1.py
+python list1.py
+python list1.py
+python list1.py
+twostrings.cpp
+vi twostrings.cpp
+gcc  twostrings.cpp -o twostrings
+./twostrings 
+vi twostrings.cpp
+vi twostrings.cpp
+./twostrings 
+./twostrings 
+vi RegeX.java
+javac RegeX.java 
+mv RegeX.java RegeXSolution.java 
+vi RegeX.java
+vi RegeXSolution.java
+javac RegeXSolution.java
+ls -ltr
+java RegeXSolution
+clear
+for ((i=1; i<=99; i+=2)); do echo $1; done
+clear
+for ((i=1; i<=99; i+=2)); do echo $1; done
+for ((i=1; i<=49; i+=2)); do echo $1; done
+for ((i=1; i<=49; i+=2)); do echo $0; done
+for ((i=1; i<=49; i+=2)); do echo $1; done
+for ((i=1; i<=49; i+=2)); do echo $2; done
+for ((i=1; i<=49; i+=2)); do echo $1 $2; done
+for ((i=1; i<=49; i+=2)); do echo $1,$2; done
+for ((i=1; i<=49; i+=2)); do print $i; done
+for ((i=1; i<=49; i+=2)); do prinf $i; done
+for ((i=1; i<=49; i+=2)); do echo $i; done
+for ((i=1; i<=49; i+=2)); do echo $i; done
+for ((i=1; i<=99; i+=2)); do echo $i; done
+read anyname; echo "Welcome" $anyname
+for (i=1 to i<=99); echo $i; done
+for (i=1; i<=99; i+=1); echo $i; done
+for (i=1; i<=99; i+=1); echo $i; done
+for (i=1; i<=99; i+=1); do; echo $i; done
+for (i=1; i<=99; i+=1); do echo $i; done
+for( i=1; i<=99; i+=1 ); do echo $i; done
+for(( i=1; i<=99; i+=1 )); do echo $i; done
+for(( i=1; i<=99; i+=1 )); do echo $i; done
+pwd
+mkdir java
+cd java/
+vi HelloWorld.java
+javac HelloWorld.java
+java HelloWorld
+vi HelloWorld.java
+vi DType.cpp
+gcc  DType.cpp -o DType
+gcc  DType.cpp
+g++  DType.cpp -o DType
+vi DType.cpp
+g++  DType.cpp -o DType
+vi DType.cpp
+vi Types1.cpp
+gcc  Types1.cpp -i Types1
+gcc  Types1.cpp -o Types1
+vi Types1.cpp
+gcc  Types1.cpp -o Types1
+vi Types1.cpp
+pwd
+ls -ltr
+gcc Types1.cpp -o Types1
+clear
+gcc Types1.cpp -o Types1
+gcc Types1.cpp 
+gcc -v Types1.cpp 
+vi Types1.py
+python3  Types1.py
+vi Types1.py
+vi Types1.py
+python3  Types1.py
+vi Types1.py
+python3  Types1.py
+vi Types1.py
+vi Types2.cpp
+gcc Types2.cpp -o Types2
+vi Types2.cpp
+clear
+gcc Types2.cpp -o Types2
+vi check1.cpp
+gcc check1.cpp -o check1
+g++ check1.cpp -o check1
+g++ Types2.cpp -o Types2
+./type2
+./Ttype2
+./Type2
+./Types2 
+./Types2
+vi Types2.cpp 
+pwd
+ls -ltr
+g++ Types2.cpp -o Types2
+./Types2 
+vi ./Types2 
+vi ./Types2.cpp
+g++ Types2.cpp -o Types2
+vi ./Types2.cpp
+g++ Types2.cpp -o Types2
+./Types2 
+vi Types.py
+python Types.py
+python Types.py
+vi Types.py
+python Types.py
+vi Types.py
+python Types.py
+vi Types.py
+python Types.py
+vi Types.py
+python Types.py
+vi Types.py
+ls -ltr
+more Types2.cpp 
+for ((i =1; i<=99; i+=1)); do echo $i; done
+for ((i =1; i<=99)); do echo $i; done
+for ((i =1; i<=99; i+=1)); do echo $i; done
+for i in  $(seq 1 .. 99); do echo $i; done
+for ((i =1; i<=99; i++)); do echo $i; done
+for ((i=1; i<=50)); do echo $i;done
+for ((i=1; i<=50;i++)); do echo $i;done
+vi Math.sh
+./Math.sh
+chmod +x ./Math.sh
+./Math.sh
+more Math.sh 
+vi YN.sh
+ chmod +x YN.sh
+./YN.sh 
+./YN.sh 
+more ./YN.sh 
+vi triangle.sh
+chmod +x triangle.sh
+./tr
+./triangle.sh 
+./triangle.sh 
+./triangle.sh 
+ read line;
+vi math2.sh
+vi math2.sh
+chmod +x math2.sh
+./math2.sh 
+-105+50*3/20 + (19^2)/7
+./math2.sh 
+(-105.5*7+50*3)/20 + (19^2)/7
+echo "scale=4;1/16" | bc
+echo "scale=3;1/16" | bc
+vi txt1.txt
+echo "scale=3;1/16" | bc
+cut -d $'\t' -f1-3  txt1.txt
+vi txt1.txt
+cut -d $'\t' -f1-3  txt1.txt
+cut -d $'\t' -f1-2  txt1.txt
+cut -d $'\t' -f1-4  txt1.txt
+clear
+cut -d $'\t' -f1-3  txt1.txt
+cut -d $'\t' -f1-3  
+vi txt1.txt
+vi txt2.txt
+cut -d $'\t' -f1-3  txt2.txt 
+cut -d $'\t' -f1-3  txt2.txt 
+cut -d $'\t' -f1-3  <txt2.txt 
+cut -d $'\t' -f1-3  < txt2.txt 
+cut -d $'\t'   < txt2.txt 
+cut -d $'\t' -f1-2  < txt2.txt 
+cut -d $'\t' -f2-3  < txt2.txt 
+cut -d$'\t' -f2- txt2.txt 
+cut -d$'\t' -f2-4 txt2.txt 
+cut -d$'\t' -f2-3 txt2.txt 
+cut -f1-3   txt2.txt 
+'cut -d$'\t' -f2-3 txt2.txt 
+'
+cut -d$'\t' -f3-4 txt2.txt 
+vi txt3.txt
+cut -c13-  txt3.txt
+more txt3.txt 
+vi txt4.txt
+cut -d ' ' -f4 txt4.txt 
+echo "scale=4;5/16" | bc
+vi scale.sh
+grep scale *
+vi compareTriplets.py
+pwd
+python3 compareTriplets.py 
+vi compareTriplets.py 
+vi compareTriplets.py 
+python3 compareTriplets.py 
+python3 compareTriplets.py 
+vi compareTriplets.java
+javac  compareTriplets.java
+vi compareTriplets.java
+javac  compareTriplets.java
+vi compareTriplets.java
+mv compareTriplets.java SolutionCompareTriplets
+mv SolutionCompareTriplets SolutionCompareTriplets.java
+javac SolutionCompareTriplets.java 
+vi compareTriplets.java
+vi SolutionCompareTriplets.java 
+javac SolutionCompareTriplets.java 
+java SolutionCompareTriplets
+ls -ltr
+java SolutionCompareTriplets
+java SolutionCompareTriplets
+java SolutionCompareTriplets
+vi AVeryBigSum.py
+vi AVeryBigSum.py
+python3  AVeryBigSum.py
+python3  AVeryBigSum.py
+vi AVeryBigSum.cpp
+g++  AVeryBigSum.cpp -o AVeryBigSum
+./AVeryBigSum 
+vi AVeryBigSum.java
+javac AVeryBigSum.java
+mv AVeryBigSum.java  SolutionAVeryBigSum.java
+vi SolutionAVeryBigSum.java 
+javac AVeryBigSum.java
+mv  SolutionAVeryBigSum.java 
+javac  SolutionAVeryBigSum.java 
+vi   SolutionAVeryBigSum.java 
+javac  SolutionAVeryBigSum.java 
+java SolutionAVeryBigSum
+ls -ltr
+more AVeryBigSum.py 
+more compareTriplets.py
+ls -ltr aVeryBigSum.py
+more  aVeryBigSum.py
+vi AVeryBigSum.py
+ls -ltr  *VeryBigSum.py
+vi aVeryBigSum.py
+vi AVeryBigSum1.py
+python3 AVeryBigSum1.py
+vi  AVeryBigSum1.py
+ls -ltr
+pwd
+pwd
+python3 AVeryBigSum1.py
+python3 AVeryBigSum1.py
+OUTPUT_PATH='./myfile'
+python3 AVeryBigSum1.py
+OUTPUT_PATH='./myfile'
+ls -ltr
+OUTPUT_PATH='./myfile.txt'
+pwd
+OUTPUT_PATH='/Users/ibrahims.hussein/hackerrank/java/myfile.txt'
+python3 AVeryBigSum1.py
+export OUTPUT_PATH='/Users/ibrahims.hussein/hackerrank/java/myfile.txt'
+python3 AVeryBigSum1.py
+python3 AVeryBigSum1.py
+python3 AVeryBigSum1.py
+python3 AVeryBigSum1.py
+vi DiagonalDifference.py
+python3 DiagonalDifference.py
+vi grid1.py
+python3  grid1.py
+vi grid1.py
+python3  grid1.py
+vi grid1.py
+python3  grid1.py
+vi grid1.py
+python3  grid1.py
+vi grid1.py
+python3  grid1.py
+vi grid1.py
+python3  grid1.py
+vi grid1.py
+vi grid2.py
+python3  grid2.py
+vi grid2.py
+more grid2.py 
+more  grid1.py
+ls ltr DiagonalDifference.py 
+ls -ltr DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+python3  DiagonalDifference.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+vi arr1.py
+python3 arr1.py 
+python3 arr1.py 
+pwd
+ls -ltr
+python3 arr1.py 
+vi arr1.py 
+python3 arr1.py 
+vi arr1.py 
+python3 arr1.py 
+vi arr1.py 
+python3 arr1.py 
+vi arr1.py 
+grep  input *
+vi arr1.py 
+python3 arr1.py 
+python3 arr1.py 
+vi arr1.py 
+python3 arr1.py 
+vi arr1.py 
+vi aar2d.py
+python3 aar2d.py
+vi aar2d.py
+python3 aar2d.py
+python3 aar2d.py
+python3 aar2d.py
+python3 aar2d.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+python3 mat1.py
+vi mat1.py
+vi arr2d2.py
+python3  arr2d2.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+python3  arr2d3.py
+vi arr2d3.py
+vi arr2dN.py
+python3 arr2dN.py
+python3 arr2dN.py
+vi arr2d3.py
+python3 arr2d3.py
+vi arr2d3.py
+python3 arr2d3.py
+python3 arr2d3.py
+python3 arr2d3.py
+mv arr2d3.py arr2diminsion.py
+vi arr2diminsion.py 
+cut -d ' ' -f1-3 
+vi txt8.txt
+cut -d ' ' -f1-3 txt8.txt 
+cut -d ' ' -f2- txt8.txt 
+first20l.sh
+vi first20l.sh
+vi tr1.sh
+vi num1.txt
+sort -n -r num1.txt
+vi temp1.txt
+sort -n -k2 -r -t $'\t' temp1.txt
+sort -n -k2 -r -t $'\t' temp1.txt
+vi uniq1.txt
+uniq -c  uniq1.txt
+uniq   uniq1.txt
+pwd
+cd 
+pwd
+cd hackerrank/
+ls -ltr findN*
+find . -name Find*
+find . -name "find*"
+ls -ltr find*
+ls -ltr *.py
+ls -ltr | more
+cd tmp
+ls -ltr
+cd ..
+pwd
+dc 
+cd 
+cd Documents/
+ls -ltr
+cd hackerrank/
+ls -ltr
+ls -ltr *.py
+find . -name "*.py"
+find . -name "*.py" -print
+cd java/
+ls -ltr
+cd
+pwd
+cd
+cd hackerrank/
+find . -name "*.py"
+find . -name "*.py" | grep -i find
+find . -name "*.py" | grep -i number
+vi findNum.py
+python findNum.py
+python3 findNum.py
+vi  findNum.py
+grep split *
+grep findNymber  *
+grep -i findNymber  *
+grep -i findNumber  *
+grep -i findNumber  */*
+grep -i findN  */*
+grep -i find  */*
+pw
+pwd
+grep -i Find  */*
+vi findNumber.cpp
+git --version
+clear
+cd
+pwd
+mkdir dev-bash
+cd dev-bash/
+x=4
+echo $x
+echo "$x"
+echo "${x}"
+echo "${}"
+echo "${y}"
+echo $PS1
+PS1="\W => $ "
+PS1="\PWD => $ "
+PS1="PWD => $ "
+PS1="$PWD => $ "
+PS1=[\@ ==> \u@\h \w]
+PS1=[\ ==> \u\h \w]
+PS1=[\ ==> \u\h \w]
+PS1=[\ ==> \u\h]
+PS1=[\T ==> \u\h \w]
+PS1=[\t ==> \u\h \w]
+PS1=[\Te ==> \u\h]
+PS1=[\T@ ==> \u\h]
+PS1=[\Te ==> \u\h]
+PS1=[\T ==> \u\h]
+PS1="[\T ==> \u\h]"
+PS1="[\T@ ==> \u\h]"
+PS1="[\T@ ==> \u\h\e]"
+echpo $PS1
+echo $PS1

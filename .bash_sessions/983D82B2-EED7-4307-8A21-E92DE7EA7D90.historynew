@@ -1,0 +1,114 @@
+pwd
+ls -ltr
+find . -name "index.html"
+more ./hackerrank/hello_world/hello_cargo/GitEMAIsh/index.html
+more ./hackerrank/hello_world/hello_cargo/GitEMAIsh/index.html
+more /less/test/sourcemaps/index.html
+more ./less/test/sourcemaps/index.html
+find . -name "index.html"
+more ./.atom/packages/atom-ide-terminal/node_modules/term.js/test/index.html
+clear
+more ./.atom/packages/atom-ide-terminal/node_modules/term.js/test/index.html
+clear
+find . -name "index.html"
+more ./.atom/packages/atom-ide-terminal/node_modules/term.js/test/index.html
+cler
+clear
+cp ./.atom/packages/atom-ide-terminal/node_modules/term.js/test/index.html .
+while read line; do echo $line | sed -n '/x-'; 
+'
+
+numbers=(one two three four five)
+declare -a days=(Monday Tuesday Wendesday Thursday Friday Saturday Sundnay)
+echo $(numbers[@])
+echo ${numbers[@]}
+echo ${numbers[0]}
+echo ${numbers[1]}
+echo ${numbers[$1]}
+echo ${numbers[$$]}
+echo ${numbers[$2]}
+echo ${#numbers[@]}
+numbers[6]=six}
+numbers[10]=seven}
+echo ${numbers[@]}
+numbers[10]=seven
+echo ${numbers[@]}
+numbers[6]=six
+for number in ${numbers[@]}; do echo $number; done
+clear
+for ((i=0; i<$(#numbers[@]}; i++))
+for ((i=0; i<${#numbers[@]}; i++)); do echo "index [$i] -> ${numbers[$i]}
+done
+
+
+quit
+q
+z
+"; for ((i=0; i<${#numbers[@]}; i++)); do echo "index [$i] -> ${numbers[$i]}"; done; for ((i=0; i<${#numbers[@]}; i++)); do echo "index [$i] -> ${numbers[$i]}"; done; done
+for ((i=0; i<${#numbers[@]}; i++)); do echo "index [$i] -> ${numbers[$i]}
+done
+
+
+quit
+q
+z
+"; for ((i=0; i<${#numbers[@]}; i++)); do echo "index [$i] -> ${numbers[$i]}"; done; for ((i=0; i<${#numbers[@]}; i++)); do echo "index [$i] -> ${numbers[$i]}"; done; done
+vi 1.sh
+sh 1.sh
+chmod 755  1.sh
+./1.sh 
+./1.sh
+vi ./1.sh
+./1.sh
+vi ./1.sh
+./1.sh
+clear
+./1.sh
+more 2.sh
+more 1.sh
+./1.sh
+vi ./1.sh
+./1.sh
+more ./1.sh
+vi ./1.sh
+./1.sh
+vi ./1.sh
+./1.sh
+vi ./1.sh
+vi ./1.sh
+vi ./1.sh
+vi ./1.sh
+./1.sh
+clear
+cat /etc/shells
+vi 2.sh
+chmod +x  2.sh
+./2.sh 
+ls -ltr
+clear
+ls -ltra
+which jq
+which yq
+jq
+yq
+echpo {A..Z}
+echo {A..Z}
+echo {w..d}
+cd /home
+cd ~-
+pwd
+cd /home
+pwd
+cd ~
+pwd
+cd /home
+cd ~-
+pwd
+touch Fruit Bannana Apple
+ls -ltr
+rm Fruit Bannana Apple 
+pwd
+touch file_{1..10}
+ls -ltr
+rm file_{1..10}
+ls -ltr
